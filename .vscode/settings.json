@@ -1,5 +1,5 @@
 {
     "[ruby]": {
-        "editor.defaultFormatter": "rebornix.ruby"
+        "editor.defaultFormatter": "mbessey.vscode-rufo"
     }
 }
